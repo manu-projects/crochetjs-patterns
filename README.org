@@ -25,9 +25,9 @@
 - vuelta 1
   1. ~1c, *8c, 2pb~ en anilla, repetir desde * 4 veces. ~8c, 1pb~ en anilla, ~pe~ en anilla
 - vuelta 2
-  1. ~*[3pb, 3c, 1pat, 3c, 3pb]~ en lazada de 8c, pe en 2pb**.
-  2. repetir desde * 4 veces.
-  3. repetir desde * hasta ** 1 vez.
+  1. * ~[3pb, 3c, 1pat, 3c, 3pb]~ en lazada de 8c**, pe en 2pb
+  2. repetir desde * 4 veces
+  3. repetir desde * hasta ** 1 vez
   4. pe en 1pb, pe en pb
 - vuelta 3
   1. pe en 3pb, 1c, * ~[2pb, 2mpa]~ en espacio de 3cad, ~[1pa, 3c 1pe en 3º cad, 1pa]~ en pad, ~[2mpa, 2pb]~ en espacio de 3cad, pb en 1pb, saltar ~[2pb, 2pe, 2pb]~ **, pb en 1pb
@@ -49,11 +49,11 @@
 - vuelta 1
   1. 1c, 9pb en anilla, unir con pe en cad inicial
 - vuelta 2
-  1. * 1c, [pb en 1pb, 6c, pb] en 1pb**, pb en 1pb
+  1. * ~1c, [pb en 1pb, 6c, pb]~ en 1pb**, pb en 1pb
   2. repetir desde * 3 veces
   3. repetir desde * hasta ** 1 vez, unir con pe en cad inicial
 - vuelta 3
-  1. * [4pb, 2c, 4pb] en lazada de 6cad**, pe en 1pb
+  1. * ~[4pb, 2c, 4pb]~ en lazada de 6cad**, pe en 1pb
   2. repetir desde * 3 veces
   3. repetir desde * hasta ** 1 vez, unir pe con pe (el pe de principio de vuelta 3)
 ** Flor de la endivia
